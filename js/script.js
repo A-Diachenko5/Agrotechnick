@@ -674,16 +674,6 @@ function listenButton(){
                     fontsize:'20',
                     margin:[20, 20, 0, 0]
                 },
-        
-                {
-                    text: optionsSprayer[arrayOpenOption[0]].name
-                },
-                {
-                    text: optionsSprayer[arrayOpenOption[1]].name
-                },
-                {
-                    text: optionsSprayer[arrayOpenOption[2]].name
-                },
                 
             ],
         
